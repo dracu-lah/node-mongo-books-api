@@ -9,6 +9,7 @@ MongoClient.connect(
   (err, client) => {
     if (err) throw error;
     console.log("Connected to mongo db");
+    // using blog
     var db = client.db("blog");
     app.get("/books", (req, res) => {
       db.collection("books")

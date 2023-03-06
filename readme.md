@@ -1,16 +1,14 @@
 # Books api using nodejs and mongodb
 
-Small project which is created using nodejs and mysql
+Small project which is created using nodejs and mongodb
 
-To install the dependecies for the project
+To install the dependencies for the project
 
 ```bash
   npm install
 ```
 
-server hosted on : localhost:9000
-
-import book_db.sql to phpmyadmin for accessing the database
+Api hosted on : http://localhost:9000/books
 
 To deploy this project run
 
