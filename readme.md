@@ -8,7 +8,7 @@ To install the dependencies for the project
   npm install
 ```
 
-Api hosted on : http://localhost:9000/books
+Api hosted on : localhost:9000/books
 
 To deploy this project run
 
